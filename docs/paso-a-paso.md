@@ -14,7 +14,7 @@ Este registro vincula cada etapa del desarrollo con el historial Git para que se
 
 ## Compilación
 
-La compilación local necesita JDK 17 y Android SDK Platform 35. En Windows se ejecuta ` .\gradlew.bat assembleDebug` desde la raíz. En Linux o macOS se ejecuta `./gradlew assembleDebug`. El APK queda en `app/build/outputs/apk/debug/app-debug.apk`.
+La compilación local necesita JDK 17 y Android SDK Platform 35. En Windows se ejecuta `.\gradlew.bat assembleDebug` desde la raíz. En Linux o macOS se ejecuta `./gradlew assembleDebug`. El APK queda en `app/build/outputs/apk/debug/app-debug.apk`.
 
 Este equipo no tiene JDK ni Android SDK instalados, por lo que no se afirma una compilación local. El flujo de GitHub Actions instala esas herramientas y compila el proyecto cada vez que se publica un cambio en `main`; su resultado aparece en la pestaña Actions y el APK se conserva como artefacto de la ejecución.
 
