@@ -24,3 +24,6 @@ La implementacion sigue los requisitos del codelab oficial Practice: Build Super
 - `app/src/main/java/com/example/superheroes/ui/theme`: colores, formas, tipografia y tema Material 3.
 - `app/src/main/res`: textos, ilustraciones, fuentes e icono de la aplicacion.
 - `.github/workflows/android.yml`: compilacion automatizada.
+## Desarrollo
+
+El registro de etapas y commits está en [docs/paso-a-paso.md](docs/paso-a-paso.md).
