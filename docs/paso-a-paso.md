@@ -21,3 +21,6 @@ Este equipo no tiene JDK ni Android SDK instalados, por lo que no se afirma una 
 ## Material de referencia
 
 La práctica sigue el [codelab oficial de Android](https://developer.android.com/codelabs/basic-android-kotlin-compose-practice-superheroes). Las ilustraciones, fuentes Cabin e icono se tomaron del [repositorio oficial de entrenamiento](https://github.com/google-developer-training/basic-android-kotlin-compose-training-superheroes); se mantienen sus avisos de licencia en la raíz del proyecto.
+## Repositorio del proyecto
+
+La URL canónica confirmada de este proyecto es [https://github.com/ElkinDelgado25/pea-superheroes](https://github.com/ElkinDelgado25/pea-superheroes).

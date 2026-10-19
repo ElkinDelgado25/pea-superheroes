@@ -1,4 +1,4 @@
-# PEA Superheroes
+﻿# PEA Superheroes
 
 Aplicacion Android de practica construida con Kotlin, Jetpack Compose y Material 3. La lista presenta seis heroes con ilustracion, nombre y descripcion; incluye tema claro y oscuro, tipografia Cabin y una barra superior centrada.
 
@@ -27,3 +27,7 @@ La implementacion sigue los requisitos del codelab oficial Practice: Build Super
 ## Desarrollo
 
 El registro de etapas y commits está en [docs/paso-a-paso.md](docs/paso-a-paso.md).
+
+## Repositorio
+
+https://github.com/ElkinDelgado25/pea-superheroes
