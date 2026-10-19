@@ -17,7 +17,8 @@
 package com.example.superheroes.ui.theme
 
 import android.app.Activity
-import android.os.Build`nimport android.view.View
+import android.os.Build
+import android.view.View
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.darkColorScheme
